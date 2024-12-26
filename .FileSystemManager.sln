@@ -1,0 +1,21 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemManager", "FileSystemManager\FileSystemManager.csproj", "{F75DC76E-403A-42B4-95B9-50001E08FF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemManagerTests", "FileSystemManagerTests\FileSystemManagerTests.csproj", "{156AF61A-C810-4723-A5D3-7825002987B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75DC76E-403A-42B4-95B9-50001E08FF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75DC76E-403A-42B4-95B9-50001E08FF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75DC76E-403A-42B4-95B9-50001E08FF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75DC76E-403A-42B4-95B9-50001E08FF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156AF61A-C810-4723-A5D3-7825002987B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156AF61A-C810-4723-A5D3-7825002987B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156AF61A-C810-4723-A5D3-7825002987B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156AF61A-C810-4723-A5D3-7825002987B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
